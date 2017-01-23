@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/orl">
+        <file>ORL_faces/s1/1.bmp</file>
+        <file>ORL_faces/s2/1.bmp</file>
+        <file>ORL_faces/s3/1.bmp</file>
+        <file>ORL_faces/s4/1.bmp</file>
+        <file>ORL_faces/s5/1.bmp</file>
+        <file>ORL_faces/s6/1.bmp</file>
+        <file>ORL_faces/s7/1.bmp</file>
+        <file>ORL_faces/s8/1.bmp</file>
+        <file>ORL_faces/s9/1.bmp</file>
+        <file>ORL_faces/s10/1.bmp</file>
+    </qresource>
+</RCC>
